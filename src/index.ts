@@ -1,5 +1,3 @@
-/// <reference path="../typings/node.d.ts" />
-
 function named(seed: string): string {
 	switch (seed.toString()) {
 		case '1': return '向日葵';
