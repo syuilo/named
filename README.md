@@ -1,6 +1,8 @@
 named.js
 -------------------------------
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/syuilo/named.svg)](https://greenkeeper.io/)
+
 [![][npm-badge]][npm-link]
 [![][mit-badge]][mit]
 
